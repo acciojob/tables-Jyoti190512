@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#total{
+	font:monospace;
+	text:end;
+	font-weight:bold;
+	color:white;
+	background-color:black;
+}
